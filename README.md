@@ -11,9 +11,9 @@ https://medium.com/@walljd20/modeling-continuous-targets-building-and-interpreti
 
 Classical data science analysis is crucial for inference, which enables storytelling. However, I believe it’s better to approach data analysis from the storytelling perspective.
 
-For instance, let’s consider the example of Napoleon’s disastrous decision to march his army to Russia during the winter. This decision had profound consequences, leading to the near-destruction of his army. By analyzing the data, we can gain insights into the factors that contributed to Napoleon’s folly and the devastating effects of his choices.
+For instance, let’s consider the example of Napoleon’s disastrous decision to march his army to Moscow during the winter. This decision had profound consequences, leading to the near-destruction of his army. By analyzing the data, we can gain insights into the factors that contributed to Napoleon’s folly and the devastating effects of his choices.
 
-In conclusion, while classical data science analysis is essential for inference and storytelling, I believe that a more holistic approach that incorporates storytelling can provide a deeper understanding of data and its implications.
+In conclusion, while classical data science analysis is essential for inference and storytelling, and the conclusion... Dont invade russia in the winter!
 
 
 ![alt text](https://humuscreativity.wordpress.com/wp-content/uploads/2013/12/poster_origminard1.gif)
