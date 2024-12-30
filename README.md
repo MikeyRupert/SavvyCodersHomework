@@ -1,20 +1,17 @@
-readme file
-repos for activities, homework, and capstone for savvycoders data analytics bootcamp
+Readme file for SavvyCoders Data Analytics Bootcamp repositories.
 
-name
-MIKE LONCARIC
+Name: Mike Loncaric
 
-bio
-Scientist turned data scientist 
+Bio: Scientist turned data scientist.
 
-goals
-learn how to move data sql, how to build better models and learn new tools to use for data analysis
+Goals: Learn SQL, build better models, and discover new tools for data analysis.
 
-
-
-Baysian statistics. i think is better then frequentist statistics
+Bayesian statistics is my preferred approach over frequentist statistics. Here’s a helpful article:
 https://medium.com/@walljd20/modeling-continuous-targets-building-and-interpreting-bayesian-regressions-using-pymc-e12f8d3730a8
 
-
-
+Classical data science analysis is essential for inference, which enables storytelling. except i think its better the other way around
+simple example of using data to tell a story, napoleon was an idiot for marching his army to russia and we see the effect of his choices as the twindling of his army to and from russia
 ![alt text](https://humuscreativity.wordpress.com/wp-content/uploads/2013/12/poster_origminard1.gif)
+
+
+
