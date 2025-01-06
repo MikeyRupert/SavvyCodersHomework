@@ -1,7 +1,7 @@
 
 Name: Mike Loncaric
 
-Bio: A scientist turned data scientist.
+Bio: scientist wannabe data scientist.
 
 Goals: Learn SQL, build better models, and discover new tools for data analysis.
 
