@@ -1,17 +1,23 @@
 # %%
 # What does one need to do to use a module?
-# To use a module, you need to import it using one of these methods:
-#  other people wrote alot of code we want to so easier to import that then reinvent the wheel
-
+# its important to import the stuff we need from the module
 
 # %%
 # Name a Module (not the DateTime Nodule) we looked at and write a line or 2 of code as an example using this module.
 import math
 print(math.sqrt(16))
-
+import torch
+x = torch.tensor([1,2,3])
+y = torch.tensor([3,2,1])
+result = x @ y
+result
 # %%
 # What is a benefit of using Exception handling?
-
+try:
+    print(1/0)
+except ZeroDivisionError:
+    print("cant divide by zero guy")
+    
 #  this is a complicated but way to handle errors that may happen in our code like passing a string to a function that expects an integer
 # %%
 # what are the 4 components used for Python Exception Handling?
